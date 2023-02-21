@@ -48,7 +48,7 @@ public:
     inline ComplexNumber conjugate() const {
         return ComplexNumber(real, -imaginary);
     }
-//
+
     inline double abs() const {
         return sqrt(real * real + imaginary * imaginary);
     }

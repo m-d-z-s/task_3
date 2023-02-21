@@ -8,7 +8,8 @@ int main() {
     ComplexNumber newComplexNumber = *new ComplexNumber(1,2);
     cout << "Real = " << newComplexNumber.Real() << "Imaginary = " << newComplexNumber.Imaginary() << endl;
     new ComplexNumber[3];
-    pc[1].Real();
+    //pc[1].Real();
+
 
 
 }
